@@ -1,0 +1,2 @@
+def merging(a):
+    pass
